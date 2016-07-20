@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 79.09
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "121"
+		xmin = 0.0
+		xmax = 79.09
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.0
+				xmax = 8.46
+				text = "ALSO A POPULAR CONTRIVANCE WHEREBY LOVE MAKING MAY BE SUSPENDED BUT NOT STOPPED DURING THE PICNIC SEASON"
+			intervals [2]:
+				xmin = 8.46
+				xmax = 14.385000000000002
+				text = "HARANGUE THE TIRESOME PRODUCT OF A TIRELESS TONGUE"
+			intervals [3]:
+				xmin = 14.385000000000002
+				xmax = 18.795
+				text = "ANGOR PAIN PAINFUL TO HEAR"
+			intervals [4]:
+				xmin = 18.795
+				xmax = 25.55
+				text = "HAY FEVER A HEART TROUBLE CAUSED BY FALLING IN LOVE WITH A GRASS WIDOW"
+			intervals [5]:
+				xmin = 25.55
+				xmax = 29.57
+				text = "HEAVEN A GOOD PLACE TO BE RAISED TO"
+			intervals [6]:
+				xmin = 29.57
+				xmax = 32.67
+				text = "HEDGE A FENCE"
+			intervals [7]:
+				xmin = 32.67
+				xmax = 36.565000000000005
+				text = "HEREDITY THE CAUSE OF ALL OUR FAULTS"
+			intervals [8]:
+				xmin = 36.565000000000005
+				xmax = 43.295
+				text = "HORSE SENSE A DEGREE OF WISDOM THAT KEEPS ONE FROM BETTING ON THE RACES"
+			intervals [9]:
+				xmin = 43.295
+				xmax = 48.285000000000004
+				text = "HOSE MAN'S EXCUSE FOR WETTING THE WALK"
+			intervals [10]:
+				xmin = 48.285000000000004
+				xmax = 55.545
+				text = "HOTEL A PLACE WHERE A GUEST OFTEN GIVES UP GOOD DOLLARS FOR POOR QUARTERS"
+			intervals [11]:
+				xmin = 55.545
+				xmax = 65.355
+				text = "HOUSECLEANING A DOMESTIC UPHEAVAL THAT MAKES IT EASY FOR THE GOVERNMENT TO ENLIST ALL THE SOLDIERS IT NEEDS"
+			intervals [12]:
+				xmin = 65.355
+				xmax = 69.39
+				text = "HUSBAND THE NEXT THING TO A WIFE"
+			intervals [13]:
+				xmin = 69.39
+				xmax = 73.435
+				text = "HUSSY WOMAN AND BOND TIE"
+			intervals [14]:
+				xmin = 73.435
+				xmax = 75.925
+				text = "TIED TO A WOMAN"
+			intervals [15]:
+				xmin = 75.925
+				xmax = 79.09
+				text = "HYPOCRITE A HORSE DEALER"

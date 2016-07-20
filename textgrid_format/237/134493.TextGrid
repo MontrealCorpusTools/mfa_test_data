@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 115.01500000000001
+tiers? <exists>
+size = 1
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "237"
+		xmin = 0.0
+		xmax = 115.01500000000001
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.0
+				xmax = 4.105
+				text = "IT IS SIXTEEN YEARS SINCE JOHN BERGSON DIED"
+			intervals [2]:
+				xmin = 4.105
+				xmax = 11.485
+				text = "HIS WIFE NOW LIES BESIDE HIM AND THE WHITE SHAFT THAT MARKS THEIR GRAVES GLEAMS ACROSS THE WHEAT FIELDS"
+			intervals [3]:
+				xmin = 11.485
+				xmax = 22.88
+				text = "FROM THE NORWEGIAN GRAVEYARD ONE LOOKS OUT OVER A VAST CHECKER BOARD MARKED OFF IN SQUARES OF WHEAT AND CORN LIGHT AND DARK DARK AND LIGHT"
+			intervals [4]:
+				xmin = 22.88
+				xmax = 35.644999999999996
+				text = "FROM THE GRAVEYARD GATE ONE CAN COUNT A DOZEN GAYLY PAINTED FARMHOUSES THE GILDED WEATHER VANES ON THE BIG RED BARNS WINK AT EACH OTHER ACROSS THE GREEN AND BROWN AND YELLOW FIELDS"
+			intervals [5]:
+				xmin = 35.644999999999996
+				xmax = 42.47
+				text = "THE AIR AND THE EARTH ARE CURIOUSLY MATED AND INTERMINGLED AS IF THE ONE WERE THE BREATH OF THE OTHER"
+			intervals [6]:
+				xmin = 42.47
+				xmax = 53.415
+				text = "HE WAS A SPLENDID FIGURE OF A BOY TALL AND STRAIGHT AS A YOUNG PINE TREE WITH A HANDSOME HEAD AND STORMY GRAY EYES DEEPLY SET UNDER A SERIOUS BROW"
+			intervals [7]:
+				xmin = 53.415
+				xmax = 57.81
+				text = "THAT'S NOT MUCH OF A JOB FOR AN ATHLETE HERE I'VE BEEN TO TOWN AND BACK"
+			intervals [8]:
+				xmin = 57.81
+				xmax = 59.845
+				text = "ALEXANDRA LETS YOU SLEEP LATE"
+			intervals [9]:
+				xmin = 59.845
+				xmax = 62.15
+				text = "SHE GATHERED UP HER REINS"
+			intervals [10]:
+				xmin = 62.15
+				xmax = 65.125
+				text = "PLEASE WAIT FOR ME MARIE EMIL COAXED"
+			intervals [11]:
+				xmin = 65.125
+				xmax = 68.0
+				text = "I NEVER SEE LOU'S SCYTHE OVER HERE"
+			intervals [12]:
+				xmin = 68.0
+				xmax = 73.035
+				text = "HOW BROWN YOU'VE GOT SINCE YOU CAME HOME I WISH I HAD AN ATHLETE TO MOW MY ORCHARD"
+			intervals [13]:
+				xmin = 73.035
+				xmax = 76.695
+				text = "I GET WET TO MY KNEES WHEN I GO DOWN TO PICK CHERRIES"
+			intervals [14]:
+				xmin = 76.695
+				xmax = 80.785
+				text = "INDEED HE HAD LOOKED AWAY WITH THE PURPOSE OF NOT SEEING IT"
+			intervals [15]:
+				xmin = 80.785
+				xmax = 84.485
+				text = "THEY THINK YOU'RE PROUD BECAUSE YOU'VE BEEN AWAY TO SCHOOL OR SOMETHING"
+			intervals [16]:
+				xmin = 84.485
+				xmax = 91.035
+				text = "THERE WAS SOMETHING INDIVIDUAL ABOUT THE GREAT FARM A MOST UNUSUAL TRIMNESS AND CARE FOR DETAIL"
+			intervals [17]:
+				xmin = 91.035
+				xmax = 101.12
+				text = "ON EITHER SIDE OF THE ROAD FOR A MILE BEFORE YOU REACHED THE FOOT OF THE HILL STOOD TALL OSAGE ORANGE HEDGES THEIR GLOSSY GREEN MARKING OFF THE YELLOW FIELDS"
+			intervals [18]:
+				xmin = 101.12
+				xmax = 110.22500000000001
+				text = "ANY ONE THEREABOUTS WOULD HAVE TOLD YOU THAT THIS WAS ONE OF THE RICHEST FARMS ON THE DIVIDE AND THAT THE FARMER WAS A WOMAN ALEXANDRA BERGSON"
+			intervals [19]:
+				xmin = 110.22500000000001
+				xmax = 115.01500000000001
+				text = "THERE IS EVEN A WHITE ROW OF BEEHIVES IN THE ORCHARD UNDER THE WALNUT TREES"
